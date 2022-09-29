@@ -1,1 +1,1 @@
-# _mind-map-
+# _mind-maps
