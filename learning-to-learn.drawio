@@ -1,66 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T08:28:15.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9XHKlk3pomg5QnpLmMMk" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T18:52:18.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RKhUSOs3YBMW5CuVTtwa" version="20.3.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5909" dy="5881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="11818" dy="8455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:22px;color:#000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:26px;color:#4f4f4f;font-weight: bold;&quot;&gt;«Навчитися вчитися. Як запустити свій мозок на повну»&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="5nFVq3Q4Yw0r" id="XsYeRrQ1QTcEc0-khL4N-1">
+        <mxCell id="dMU29pMQTbouE0_PsFfP-1" value="щ" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#9391FF;strokeWidth=4;endArrow=oval;endFill=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-3" target="dMU29pMQTbouE0_PsFfP-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2516" y="-1210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="107" />
+              <mxPoint x="900" y="-1020" />
+              <mxPoint x="2490" y="-1020" />
+              <mxPoint x="2490" y="-1230" />
+              <mxPoint x="2516" y="-1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" connectable="0" vertex="1" parent="dMU29pMQTbouE0_PsFfP-1">
+          <mxGeometry x="0.5489" y="190" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:22px;color:#000000;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:26px;color:#4f4f4f;font-weight: bold;&quot;&gt;«Навчитися вчитися. Як запустити свій мозок на повну»&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="5nFVq3Q4Yw0r" id="dMU29pMQTbouE0_PsFfP-3">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="150" y="84" width="450" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Глава 1&#xa;ВІДЧИНЯЄМО ДВЕРІ" lucidchartObjectId="orFVTNez4_68" id="XsYeRrQ1QTcEc0-khL4N-2">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=23.3;fontColor=default;align=center;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#9391ff;strokeWidth=3;" vertex="1" parent="1">
-            <mxGeometry x="2544" y="-1425" width="180" height="177" as="geometry" />
+        <mxCell id="dMU29pMQTbouE0_PsFfP-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=#9391FF;strokeWidth=4;fontSize=16;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-6" target="dMU29pMQTbouE0_PsFfP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9391FF;strokeWidth=4;fontSize=16;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-6" target="dMU29pMQTbouE0_PsFfP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Глава 1&#xa;ВІДЧИНЯЄМО ДВЕРІ" lucidchartObjectId="orFVTNez4_68" id="dMU29pMQTbouE0_PsFfP-6">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16;fontColor=default;align=center;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#9391ff;strokeWidth=3;" vertex="1" parent="1">
+            <mxGeometry x="2426" y="-1440" width="180" height="177" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Математика нізащо не пробачить, якщо ви раптом пропустите яку-небудь ланку її логічного ланцюжка" lucidchartObjectId="1cGVxdpD_o.q" id="XsYeRrQ1QTcEc0-khL4N-3">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2334" y="-1725" width="301" height="105" as="geometry" />
+        <UserObject label="Математика нізащо не пробачить, якщо ви раптом пропустите яку-небудь ланку її логічного ланцюжка" lucidchartObjectId="1cGVxdpD_o.q" id="dMU29pMQTbouE0_PsFfP-7">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="2196" y="-1755" width="351" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Що ліпше в мене виходило, то більше задоволення я від того отримувала. А отримуючи задоволення, я ще більше часу тому присвячувала." lucidchartObjectId="fdGVYIQUwmsG" id="XsYeRrQ1QTcEc0-khL4N-4">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2709" y="-1665" width="346" height="143" as="geometry" />
+        <UserObject label="Що ліпше в мене виходило, то більше задоволення я від того отримувала. А отримуючи задоволення, я ще більше часу тому присвячувала." lucidchartObjectId="fdGVYIQUwmsG" id="dMU29pMQTbouE0_PsFfP-8">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="2579.5" y="-1665" width="346" height="93" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Більшість молодших за мене студентів навколо ніби мали вроджену здатність бачити розв’язання, поки я товклася головою в стіну. Але із часом я почала втягуватися." lucidchartObjectId="PfGVKqdM.R.H" id="XsYeRrQ1QTcEc0-khL4N-5">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2844" y="-1491" width="361" height="158" as="geometry" />
+        <UserObject label="Більшість молодших за мене студентів навколо ніби мали вроджену здатність бачити розв’язання, поки я товклася головою в стіну. Але із часом я почала втягуватися." lucidchartObjectId="PfGVKqdM.R.H" id="dMU29pMQTbouE0_PsFfP-9">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="2680" y="-1526" width="450" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Ще я навчилася не хапати забагато одразу, давати собі час на опанування чогось, хай навіть мої одногрупники здобудуть диплом швидше, бо проходять за семестр більше курсів." lucidchartObjectId="fiGVINvoT9eF" id="XsYeRrQ1QTcEc0-khL4N-6">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2949" y="-1302" width="356" height="152" as="geometry" />
+        <UserObject label="Ще я навчилася не хапати забагато одразу, давати собі час на опанування чогось, хай навіть мої одногрупники здобудуть диплом швидше, бо проходять за семестр більше курсів." lucidchartObjectId="fiGVINvoT9eF" id="dMU29pMQTbouE0_PsFfP-10">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="2710" y="-1402" width="470" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Мозок створений для виконання складних розумових операцій. Ми їх виконуємо щоразу, коли ловимо м’яч чи рухаємо своїм тіломю" lucidchartObjectId="7iGVEtNVKWxX" id="XsYeRrQ1QTcEc0-khL4N-7">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2750" y="-1110" width="365" height="136" as="geometry" />
+        <UserObject label="Мозок створений для виконання складних розумових операцій. Ми їх виконуємо щоразу, коли ловимо м’яч чи рухаємо своїм тіломю" lucidchartObjectId="7iGVEtNVKWxX" id="dMU29pMQTbouE0_PsFfP-11">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="2570" y="-1180" width="365" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Ця книжка призначена як для ненависників математики, так і для її фанів." lucidchartObjectId="tkGVPaXUmYg6" id="XsYeRrQ1QTcEc0-khL4N-8">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2199" y="-1095" width="286" height="103" as="geometry" />
+        <UserObject label="Ця книжка призначена як для ненависників математики, так і для її фанів." lucidchartObjectId="tkGVPaXUmYg6" id="dMU29pMQTbouE0_PsFfP-12">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="2013" y="-1283" width="316" height="103" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Книжка містить чимало вправ для тренування пізнавальної спроможності мозку." lucidchartObjectId="0mGV-XS0AN1u" id="XsYeRrQ1QTcEc0-khL4N-9">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2094" y="-1320" width="292" height="100" as="geometry" />
+        <UserObject label="Книжка містить чимало вправ для тренування пізнавальної спроможності мозку." lucidchartObjectId="0mGV-XS0AN1u" id="dMU29pMQTbouE0_PsFfP-13">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;align=center;" vertex="1" parent="1">
+            <mxGeometry x="1980" y="-1426" width="302" height="102" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Те, про що ви прочитаєте, допоможе розвинути власну ефективність і творчу енергію майже у всьому, чим ви займаєтеся." lucidchartObjectId="EoGVaajhhtP6" id="XsYeRrQ1QTcEc0-khL4N-10">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2094" y="-1530" width="315" height="128" as="geometry" />
+        <UserObject label="Те, про що ви прочитаєте, допоможе розвинути власну ефективність і творчу енергію майже у всьому, чим ви займаєтеся." lucidchartObjectId="EoGVaajhhtP6" id="dMU29pMQTbouE0_PsFfP-14">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1920" y="-1600" width="385" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Глава 2&#xa;ГЕНІАЛЬНІСТЬ У ПРОСТОТІ" lucidchartObjectId="SZKV4b3Ptv6G" id="XsYeRrQ1QTcEc0-khL4N-11">
+        <mxCell id="dMU29pMQTbouE0_PsFfP-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9391FF;strokeWidth=5;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-18" target="dMU29pMQTbouE0_PsFfP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#9391FF;strokeWidth=5;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-18" target="dMU29pMQTbouE0_PsFfP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9391FF;strokeWidth=5;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-18" target="dMU29pMQTbouE0_PsFfP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Глава 2&#xa;ГЕНІАЛЬНІСТЬ У ПРОСТОТІ" lucidchartObjectId="SZKV4b3Ptv6G" id="dMU29pMQTbouE0_PsFfP-18">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=23.3;fontColor=default;align=center;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#9391ff;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="2268" y="-420" width="180" height="177" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="N0KVDwQbtpBB" id="XsYeRrQ1QTcEc0-khL4N-12">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.421;exitPerimeter=0;entryX=-0.008;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-1" target="XsYeRrQ1QTcEc0-khL4N-11">
+        <UserObject label="" lucidchartObjectId="N0KVDwQbtpBB" id="dMU29pMQTbouE0_PsFfP-19">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.421;exitPerimeter=0;entryX=-0.008;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-3" target="dMU29pMQTbouE0_PsFfP-18">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="789" y="122" />
@@ -69,28 +101,18 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="c2KVYcx80qov" id="XsYeRrQ1QTcEc0-khL4N-13">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#9391ff;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=0.057;exitY=0.749;exitPerimeter=0;entryX=1.001;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-11" target="XsYeRrQ1QTcEc0-khL4N-14">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="2292" y="-312" />
-                <mxPoint x="2165" y="-170" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="Почніть з ознайомлення з графіками та малюнками, щоб розігріти двигун мозку" lucidchartObjectId="A2KVGXF8FV-o" id="XsYeRrQ1QTcEc0-khL4N-14">
+        <UserObject label="Почніть з ознайомлення з графіками та малюнками, щоб розігріти двигун мозку" lucidchartObjectId="A2KVGXF8FV-o" id="dMU29pMQTbouE0_PsFfP-20">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
             <mxGeometry x="1863" y="-235" width="315" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Початкова інтуїція часто неправильно оцінює те, що відбувається. Починати вчитися треба з теорії та доп матеріалів, а потім  переходити до практичних завдань." lucidchartObjectId="S.KV.79kYRbt" id="XsYeRrQ1QTcEc0-khL4N-15">
+        <UserObject label="Початкова інтуїція часто неправильно оцінює те, що відбувається. Починати вчитися треба з теорії та доп матеріалів, а потім  переходити до практичних завдань." lucidchartObjectId="S.KV.79kYRbt" id="dMU29pMQTbouE0_PsFfP-21">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="2128" y="-78" width="530" height="153" as="geometry" />
+            <mxGeometry x="2076" y="-40" width="530" height="153" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="sdLVsYG1KrVn" id="XsYeRrQ1QTcEc0-khL4N-16">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitY=1.008;exitPerimeter=0;entryY=1.008;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-11" target="XsYeRrQ1QTcEc0-khL4N-11">
+        <UserObject label="" lucidchartObjectId="sdLVsYG1KrVn" id="dMU29pMQTbouE0_PsFfP-22">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitY=1.008;exitPerimeter=0;entryY=1.008;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-18" target="dMU29pMQTbouE0_PsFfP-18">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="2378" y="-221" generated="1" />
@@ -99,43 +121,41 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="vdLVrRbrIJ03" id="XsYeRrQ1QTcEc0-khL4N-17">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#9391ff;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.008;exitPerimeter=0;entryX=0.547;entryY=-0.002;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-11" target="XsYeRrQ1QTcEc0-khL4N-15">
+        <UserObject label="" lucidchartObjectId="vdLVrRbrIJ03" id="dMU29pMQTbouE0_PsFfP-23">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#9391ff;strokeOpacity=100;strokeWidth=5;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.008;exitPerimeter=0;entryX=0.547;entryY=-0.002;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-18" target="dMU29pMQTbouE0_PsFfP-21">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="2378" y="-34" />
-                <mxPoint x="2438" y="-246" />
+                <mxPoint x="2380" y="-170" />
               </Array>
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Щоб оволодіти  знанням  треба розвивати й використовувати  зосереджений та розсіяний режими мислення." lucidchartObjectId="-GLV3AcS2gDj" id="XsYeRrQ1QTcEc0-khL4N-18">
+        <UserObject label="Щоб оволодіти  знанням  треба розвивати й використовувати  зосереджений та розсіяний режими мислення." lucidchartObjectId="-GLV3AcS2gDj" id="dMU29pMQTbouE0_PsFfP-24">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
             <mxGeometry x="2547" y="-255" width="530" height="153" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="EJLV9FePS-GC" id="XsYeRrQ1QTcEc0-khL4N-19">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#9391ff;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=0.916;exitY=0.792;exitPerimeter=0;entryX=-0.001;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-11" target="XsYeRrQ1QTcEc0-khL4N-18">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="2641" y="-260" />
-                <mxPoint x="2379" y="-159" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="Ефект установки - явище, при якому ми заціклюємося на стандартних підходах,  наштовхуючись  на бар&#39;єр в розв&#39;язанні завдань чи розумінні нових тем" lucidchartObjectId="_JLVT-yWkom1" id="XsYeRrQ1QTcEc0-khL4N-20">
+        <UserObject label="Ефект установки - явище, при якому ми заціклюємося на стандартних підходах,  наштовхуючись  на бар&#39;єр в розв&#39;язанні завдань чи розумінні нових тем" lucidchartObjectId="_JLVT-yWkom1" id="dMU29pMQTbouE0_PsFfP-25">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontColor=default;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
             <mxGeometry x="2583" y="-495" width="465" height="180" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Глава 7&#xa;ЗАСВОЄННЯ ЗАМІСТЬ ЗАЦІПЕНІННЯ" lucidchartObjectId="nLLVHAEKEiQS" id="XsYeRrQ1QTcEc0-khL4N-21">
+        <mxCell id="dMU29pMQTbouE0_PsFfP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=default;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-27" target="dMU29pMQTbouE0_PsFfP-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="-1660" />
+              <mxPoint x="490" y="-1660" />
+              <mxPoint x="490" y="-1662" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Глава 7&#xa;ЗАСВОЄННЯ ЗАМІСТЬ ЗАЦІПЕНІННЯ" lucidchartObjectId="nLLVHAEKEiQS" id="dMU29pMQTbouE0_PsFfP-27">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=23.3;fontColor=default;align=center;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#9391ff;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="15" y="-2160" width="202" height="198" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="6LLV3n3T8b4-" id="XsYeRrQ1QTcEc0-khL4N-22">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.016;exitPerimeter=0;entryX=0.5;entryY=1.008;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-1" target="XsYeRrQ1QTcEc0-khL4N-21">
+        <UserObject label="" lucidchartObjectId="6LLV3n3T8b4-" id="dMU29pMQTbouE0_PsFfP-28">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.016;exitPerimeter=0;entryX=0.5;entryY=1.008;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-3" target="dMU29pMQTbouE0_PsFfP-27">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="395" y="-85" />
@@ -144,13 +164,37 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Глава 8&#xa;ПОРАДИ, ПРИЙОМИ Й ІНСТРУМЕНТАРІЙ" lucidchartObjectId=".LLV99XweFOW" id="XsYeRrQ1QTcEc0-khL4N-23">
+        <mxCell id="dMU29pMQTbouE0_PsFfP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-37" target="dMU29pMQTbouE0_PsFfP-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-37" target="dMU29pMQTbouE0_PsFfP-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-37" target="dMU29pMQTbouE0_PsFfP-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-37" target="dMU29pMQTbouE0_PsFfP-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-37" target="dMU29pMQTbouE0_PsFfP-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-37" target="dMU29pMQTbouE0_PsFfP-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-37" target="dMU29pMQTbouE0_PsFfP-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-37" target="dMU29pMQTbouE0_PsFfP-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Глава 8&#xa;ПОРАДИ, ПРИЙОМИ Й ІНСТРУМЕНТАРІЙ" lucidchartObjectId=".LLV99XweFOW" id="dMU29pMQTbouE0_PsFfP-37">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=23.3;fontColor=default;align=center;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#9391ff;strokeWidth=3;" vertex="1" parent="1">
-            <mxGeometry x="-915" y="-1122" width="226" height="222" as="geometry" />
+            <mxGeometry x="-1180" y="-1624" width="226" height="222" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId=".LLV4vUscxLI" id="XsYeRrQ1QTcEc0-khL4N-24">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=0.154;exitY=-0.016;exitPerimeter=0;entryX=0.5;entryY=1.007;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-1" target="XsYeRrQ1QTcEc0-khL4N-23">
+        <UserObject label="" lucidchartObjectId=".LLV4vUscxLI" id="dMU29pMQTbouE0_PsFfP-38">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=0.154;exitY=-0.016;exitPerimeter=0;entryX=0.5;entryY=1.007;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-3" target="dMU29pMQTbouE0_PsFfP-37">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="239" y="-85" />
@@ -159,137 +203,137 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="WMLVNTnirxlu" id="XsYeRrQ1QTcEc0-khL4N-25">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#9391ff;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=1.008;exitY=0.519;exitPerimeter=0;entryX=-0.001;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-11" target="XsYeRrQ1QTcEc0-khL4N-20">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="2657" y="-308" />
-                <mxPoint x="2415" y="-385" />
-              </Array>
-            </mxGeometry>
+        <UserObject label="&lt;span style=&quot;background-color: initial;&quot;&gt;Свобода плану:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- спробуйте вести план на різних носіях: у програмі, блокноті чи може на дошці;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;- обмежуйте час для завершення завдань у плані, наприклад, до 17:00;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- буває, що люди, які вдало поєднують відпочинок із важкою працею,&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;за результатами перевершують тих, хто заглиблений у роботу безперервно;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- дуже важливо від абстрактних і віддалених термінів виконання перейти до щоденних;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- великі плани потрібно розділяти на малі частини, які знайдуть своє місце у ваших планах на день.&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" lucidchartObjectId="jKNV0.O8IeED" id="dMU29pMQTbouE0_PsFfP-39">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-2130" y="-1962" width="867" height="284.44" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Глава 3&#xa;НАВЧАННЯ - ЦЕ ТВОРЧІСТЬ" lucidchartObjectId="8oMVLnLs4pYs" id="XsYeRrQ1QTcEc0-khL4N-26">
+        <UserObject label="Глава 3&#xa;НАВЧАННЯ - ЦЕ ТВОРЧІСТЬ" lucidchartObjectId="8oMVLnLs4pYs" id="dMU29pMQTbouE0_PsFfP-40">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=23.3;fontColor=default;align=center;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#9391ff;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="2220" y="765" width="206" height="186" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Як підвищувати рівень знань і боротися зі страхом" lucidchartObjectId="jKNV0.O8IeED" id="XsYeRrQ1QTcEc0-khL4N-27">
+        <UserObject label="&lt;p&gt;&lt;span data-meta=&quot;&lt;--(miro-data-v1)tl2kroutqq+gnq+gn111oZynrqBnXZ2qnK2fhJ9ddV2wk6WRi4+RfY2QfHhdZ12fnK+cXXW2XaqdpaCer65ddZa2XbKkn6Kgr3+cr5xddbZdpa6qqV11tl2upLWgXXW2XbKkn6+jXXVxbHFnXaOgpKKjr111bWxxuGddraqvnK+kqqlddbZdraqvnK+kqqlddWu4Z12rqq6kr6SqqV11tl2zXXVrZ120XXVruGddrp6cp6BddbZdrp6cp6BddWy4Z12aq6qupK+kqqlddbZdqqGhrqCvi7NddbZds111a2ddtF11a7i4Z12aq5ytoKmvXXWpsKenZ12voLOvXXVdd6t5d66vraqponkL6gv1Wwy+C/gL8wv1C/gMvgy9C/NbC+0M0QvvC/UL9gvrC+8L6wv4C/gMylsL+AvrWwv6C/kMvQzRC/d6d2qur62qqaJ5d2qreXereXeur62qqaJ5C88Mvgv3C/UL81sMvAy9DL4L7wvwC/gMvQvrZ1sMxAv5WwvtC/ML7QzCC+sMz1sL+gy7C/kL9wvzDLwL9gv5C+0MvlsM0Qv4C/EL8Av4C/AMuwzRDMl1d2qur62qqaJ5d2qreXereXeur62qqaJ5bGl3aq6vraqponlbC95bDMQL+QvvC/AL+Av4C/ML9Qy+WwzKWwvyC+sL+gvzDLwMvgzJWwy9C/AMuwv3DNEL+FsL7QvzC/UL+Qv4C+sL+Av4DMpbC/IL6wvtC+8L6wv4DMdbC/gL61sL7wvwC/gMx1sMuwvrC/gM0QzDC/BnWwv4DNEL8VsMz1sL+AvrDLwL+gy7C+sL7QvvDNFpWwvdC+sL9VsMylsL+AzRC/UL+Qv2C/NbC/gL8FsL7wv5DLsL+QvsC/YMygzJWwvyC+sL7QvvC+sL+Av4DMpbC+1bC/kMvAy9C+sL+Av4DMlbDMAL7QvzC/YL8wv4DL5bC/RbC/cL6wzJWwzEC/BbDMEM0Qv2C/ML9FsL7wvwC/gMx1sL+AvrWwy9C/BnWwzEC/kL7FsL+QvsC+8Mvgv3C+sMvQvzWwvtC/ML9Qv5C/gL6wv4C/BbC/IL6wvtC+8L6wv4C/gMymdbC/oL8Ay7DMNbC/gM0QvxWwvyC+8L6wy9C/NbC/QL+QvuC/lpd2qreXereXeur62qqaJ5bWl3aq6vraqponlbC9UL+Qv2C/NbDMpbC/oMuwvrDMEMyQzJWwv4C+sL71sL7wv5C/cL6wzDC/gM0Qv3C/NbC/IL6wvtC+8L6wv4C/gMygv3C/NnWwy9C/lbC/oL+QvtDNEL7wv5C/cL9gzKDMlbDMEL8FsL7wy7DL4L8gzKC/dpWwvdC/kL7wzRWwv1C/kL9gvzWwzADL0L+Qy8DMdbDNEL8lsL+AvzDMBbC/oL+QvsC+sMwgvzDL0Mx2dbDMQL+VsMylsMvAvzC+8L8Qy+Wwy+Wwy/C/AL9Ay8C+wMvgzBDNFnWwvyC+sL+gvzDL0L6wzPZ1sMwgv5C/cMvlsMylsL8gvrDLsL6wvyWwvsC+sL9AvvC/ML9Qy+DMlpd2qreXereXeur62qqaJ5bml3aq6vraqponlbC+pbDL0MuwvzC/cL6wzJWwv4C+tbDLwMvQv5C/YM0VsL6wy7C/UMvgzDWwv6C+sL+gvwDLsMvlsL8lsL+AvrC/oL8wy8C+sL+Av5DMlbC/gL61sL+AzHC/kL9wy+Wwv6C/kMwgvrDL0L9Qv5C+0L+QzJWwvyC+sMuwv6C/YL6wy9C/kMyVsL+gy7C/kL9wvzDLwL9gv5C+0L+QvuC/lbDNEL+AvxC/AL+AvwDLsL62lbC9UL+Qv2C/NbC/cL8Av4DNFbC+0L6wvxC/UL+VsL8gv5DLwL8Ay7C/AL7wvzDL0L8wy8DMpbC/gL61sMuwv5C+wL+Qy9DNFnWwzKWwvvC/ML7Qv2DMkMvAzKWwv4C+tbDMEL8Av0WwvrDLsL9Qy+DMNbDNFbC/gL6wvuC+sL7wy+DMlbDLwL+QvsDNFnWwzEC/lbC+1bC+8L+QvtC+4L+Qy8DL0Muwv5C/UL+QvtDNEL9FsL+gvwDLsMvAv6C/AL9Qy9C/ML7QzRWwzBDNFbC/IMvgy8C/ML9gv2DMpbC+8L6wvvDL4MvQzHWwv6C/YL+QvvC/Npd2qreV1nXa6vtKegXXVdtpddrq+XXXVsb2eXXZ2el111aGxnl12dqpdddWxnl12drp6XXXVrZ5ddr5yXXXWXXa2XXWeXXa+el111bG1ubW5va2eXXa+unpdddWxnl12hoamXXXVsa2eXXauXXXVzZ5ddnZdddWtnl12wl111a2eXXaSXXXVrZ5ddrpdddWtnl12hspdddWxnl12drZ6XXXVobGeXXZ2tqpdddWxnl12drbKXXXVrZ5ddna2ul111bWeXXaOnl111a7hduGddr7SroF11Xa+gs69duGddr7SroF11bG9nXamudaikqZ+onKtddbZdr6OgqKBddV2eqqeqrX2tnKmeo11nXaectKqwr111XZ2wr6+graGntF1nXZ6qp6ecq66knaegfa2cqZ6jXXW2XaSuiaqfoIOkn5+gqV11oZynrqBnXaSufa2cqZ6jfqqnp5yrrqCfXXWhnKeuoLi4uJhnXaigr5xddba4uGddsaCtrqSqqV11bWddo6qur111XaikrappnqqoXbg=(/miro-data-v1)--&gt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 1.2;&quot;&gt;&lt;div&gt;Як уникнути відкладання на потім?&lt;/div&gt;&lt;div&gt;Думки студента, що вивчає промислову інженерію:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1. У щоденнику я записую термін виконання завдань на день раніше, ніж є насправді. Так я ніколи не доробляю завдання в останню хвилину й маю ще цілий день на те, щоб обдумати виконане завдання, перш ніж здати його.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2. Коли я працюю над домашніми завданнями, то повідомляю це друзям. Тоді коли хтось із них побачить, що я сиджу у фейсбуці, запитає, чому я зараз байдикую.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3. Я тримаю на столі аркуш паперу з написаною на ньому початковою зарплатою промислового інженера. Коли мені важко зосередитися на роботі, я дивлюся на цей аркуш і нагадую собі, що в довгостроковій перспективі ці зусилля дадуть плоди.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" lucidchartObjectId="jKNV0.O8IeED" id="dMU29pMQTbouE0_PsFfP-41">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;spacingTop=0;whiteSpace=wrap;horizontal=1;" vertex="1" parent="1">
+            <mxGeometry x="-2140" y="-1610" width="877" height="260" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p style=&quot;line-height: 1.2;&quot;&gt;Як підвищувати рівень знань і боротися зі страхом&lt;/p&gt;" lucidchartObjectId="jKNV0.O8IeED" id="dMU29pMQTbouE0_PsFfP-42">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
             <mxGeometry x="349" y="-2355" width="240" height="108" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Нові знання та ідеї приходять у процесі роботи&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;та практичного застосування існуючих знань&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="OKNVurO3G~MU" id="XsYeRrQ1QTcEc0-khL4N-28">
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Нові знання та ідеї приходять у процесі роботи&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;та практичного застосування існуючих знань&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="OKNVurO3G~MU" id="dMU29pMQTbouE0_PsFfP-43">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="630" y="-2520" width="375" height="79" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="5KNVNkkpTzd_" id="XsYeRrQ1QTcEc0-khL4N-29">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.003;exitPerimeter=0;entryX=0.5;entryY=1.019;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-27" target="XsYeRrQ1QTcEc0-khL4N-28">
+        <UserObject label="" lucidchartObjectId="5KNVNkkpTzd_" id="dMU29pMQTbouE0_PsFfP-44">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.003;exitPerimeter=0;entryX=0.5;entryY=1.019;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-42" target="dMU29pMQTbouE0_PsFfP-43">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="_KNVa_boydMP" id="XsYeRrQ1QTcEc0-khL4N-30">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.008;exitPerimeter=0;entryX=0.5;entryY=1.003;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-21" target="XsYeRrQ1QTcEc0-khL4N-27">
+        <UserObject label="" lucidchartObjectId="_KNVa_boydMP" id="dMU29pMQTbouE0_PsFfP-45">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.008;exitPerimeter=0;entryX=0.5;entryY=1.003;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-27" target="dMU29pMQTbouE0_PsFfP-42">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Як сформувати міцний фрагмент пам’яті" lucidchartObjectId="wLNVl~B~.0KI" id="XsYeRrQ1QTcEc0-khL4N-31">
+        <UserObject label="Як сформувати міцний фрагмент пам’яті" lucidchartObjectId="wLNVl~B~.0KI" id="dMU29pMQTbouE0_PsFfP-46">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
             <mxGeometry x="525" y="-2115" width="210" height="108" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="JLNVxCMGmjJ5" id="XsYeRrQ1QTcEc0-khL4N-32">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-21" target="XsYeRrQ1QTcEc0-khL4N-31">
+        <UserObject label="" lucidchartObjectId="JLNVxCMGmjJ5" id="dMU29pMQTbouE0_PsFfP-47">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.007;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-27" target="dMU29pMQTbouE0_PsFfP-46">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Використовуй &quot;чергування&quot;, тобто повернення до тієї самої теми через деякий час, щоб закріпити вивчене раніше" lucidchartObjectId="XLNVh9NF_cMm" id="XsYeRrQ1QTcEc0-khL4N-33">
+        <UserObject label="Використовуй &quot;чергування&quot;, тобто повернення до тієї самої теми через деякий час, щоб закріпити вивчене раніше" lucidchartObjectId="XLNVh9NF_cMm" id="dMU29pMQTbouE0_PsFfP-48">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;fontColor=default;align=left;spacing=9;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="825" y="-2355" width="300" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="-LNVMoaLUc4k" id="XsYeRrQ1QTcEc0-khL4N-34">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.003;exitPerimeter=0;entryX=0.5;entryY=1.016;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-31" target="XsYeRrQ1QTcEc0-khL4N-33">
+        <UserObject label="" lucidchartObjectId="-LNVMoaLUc4k" id="dMU29pMQTbouE0_PsFfP-49">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.003;exitPerimeter=0;entryX=0.5;entryY=1.016;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-46" target="dMU29pMQTbouE0_PsFfP-48">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Послідовне вивчення тем, від базових до більш складніших, розвиває вашу інтуїцію, яка допомагає вам впоратись з більш складними завданнями, на інтуїтивному рівні" lucidchartObjectId="fMNVHZalcQzT" id="XsYeRrQ1QTcEc0-khL4N-35">
+        <UserObject label="Послідовне вивчення тем, від базових до більш складніших, розвиває вашу інтуїцію, яка допомагає вам впоратись з більш складними завданнями, на інтуїтивному рівні" lucidchartObjectId="fMNVHZalcQzT" id="dMU29pMQTbouE0_PsFfP-50">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;fontColor=default;align=left;spacing=9;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="1185" y="-2355" width="390" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="vMNVZ_hiCN6a" id="XsYeRrQ1QTcEc0-khL4N-36">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;entryX=0.5;entryY=1.016;entryPerimeter=0;" edge="1" parent="1" target="XsYeRrQ1QTcEc0-khL4N-35">
+        <UserObject label="" lucidchartObjectId="vMNVZ_hiCN6a" id="dMU29pMQTbouE0_PsFfP-51">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;entryX=0.5;entryY=1.016;entryPerimeter=0;" edge="1" parent="1" target="dMU29pMQTbouE0_PsFfP-50">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
               <mxPoint x="630" y="-2145" as="sourcePoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;1. Розв&#39;язуйте завдання до кінця, самостійно, на скільки це можливо, не підглядайте у рішення.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Згадайте, як ви раніше вирішували подібні завдання&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;2. Повторно виконайте те саме завдання, як коли вчитесь грати на музичному інструменті.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Це тренує ваш мозок та інтуїцію як повторне підняття ваги тренує ваші м&#39;язи&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;3. Зробіть перерву. Відпочиньте  або займіться іншим видом діяльності.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Потрібно дати час вашому мозку для засвоєння отриманих знань&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;4. Розв&#39;яжіть задачу ще раз перед сном. Нехай попрацює ваша підсвідомість&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;5. Наступного дня розв&#39;яжіть задачу ще раз. Сфокусуйтеся на найскладніших частинах задачі.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Як альтернатива, спробуйте розв&#39;язати іншу схожу вправу&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="CMNVD8TRWwbI" id="XsYeRrQ1QTcEc0-khL4N-37">
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;1. Розв&#39;язуйте завдання до кінця, самостійно, на скільки це можливо, не підглядайте у рішення.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Згадайте, як ви раніше вирішували подібні завдання&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;2. Повторно виконайте те саме завдання, як коли вчитесь грати на музичному інструменті.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Це тренує ваш мозок та інтуїцію як повторне підняття ваги тренує ваші м&#39;язи&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;3. Зробіть перерву. Відпочиньте  або займіться іншим видом діяльності.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Потрібно дати час вашому мозку для засвоєння отриманих знань&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;4. Розв&#39;яжіть задачу ще раз перед сном. Нехай попрацює ваша підсвідомість&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;5. Наступного дня розв&#39;яжіть задачу ще раз. Сфокусуйтеся на найскладніших частинах задачі.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Як альтернатива, спробуйте розв&#39;язати іншу схожу вправу&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="CMNVD8TRWwbI" id="dMU29pMQTbouE0_PsFfP-52">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="1635" y="-2265" width="585" height="285" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="3NNVEXalM1Xk" id="XsYeRrQ1QTcEc0-khL4N-38">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.939;exitY=0.134;exitPerimeter=0;entryX=-0.003;entryY=0.578;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-31" target="XsYeRrQ1QTcEc0-khL4N-37">
+        <UserObject label="" lucidchartObjectId="3NNVEXalM1Xk" id="dMU29pMQTbouE0_PsFfP-53">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.939;exitY=0.134;exitPerimeter=0;entryX=-0.003;entryY=0.578;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-46" target="dMU29pMQTbouE0_PsFfP-52">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Візьміть нову задачу і пропрацюйте її як попередню, по цим 5 крокам. Потім наступну.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Так ви формуєте стійкі фрагменти знань у вашій пам&#39;яті&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="jONVrfZdMBip" id="XsYeRrQ1QTcEc0-khL4N-39">
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Візьміть нову задачу і пропрацюйте її як попередню, по цим 5 крокам. Потім наступну.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Так ви формуєте стійкі фрагменти знань у вашій пам&#39;яті&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="jONVrfZdMBip" id="dMU29pMQTbouE0_PsFfP-54">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="1185" y="-2025" width="390" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Час від часу, поза процесом навчання, пригадуйте яким чином ви розв&#39;язували ту чи іншу задачу.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Це допоможе вам видобувати з пам&#39;яті ключові тези під час іспиту чи вирішення інших завдань&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="wONVBNru1gTy" id="XsYeRrQ1QTcEc0-khL4N-40">
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Час від часу, поза процесом навчання, пригадуйте яким чином ви розв&#39;язували ту чи іншу задачу.&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;Це допоможе вам видобувати з пам&#39;яті ключові тези під час іспиту чи вирішення інших завдань&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="wONVBNru1gTy" id="dMU29pMQTbouE0_PsFfP-55">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="825" y="-2025" width="300" height="135" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="4PNVinGoobuI" id="XsYeRrQ1QTcEc0-khL4N-41">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.999;exitY=0.416;exitPerimeter=0;entryX=0.5;entryY=-0.016;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-31" target="XsYeRrQ1QTcEc0-khL4N-39">
+        <UserObject label="" lucidchartObjectId="4PNVinGoobuI" id="dMU29pMQTbouE0_PsFfP-56">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.999;exitY=0.416;exitPerimeter=0;entryX=0.5;entryY=-0.016;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-46" target="dMU29pMQTbouE0_PsFfP-54">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="8PNVUvNOEN9m" id="XsYeRrQ1QTcEc0-khL4N-42">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.986;exitY=0.696;exitPerimeter=0;entryX=0.5;entryY=-0.011;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-31" target="XsYeRrQ1QTcEc0-khL4N-40">
+        <UserObject label="" lucidchartObjectId="8PNVUvNOEN9m" id="dMU29pMQTbouE0_PsFfP-57">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.986;exitY=0.696;exitPerimeter=0;entryX=0.5;entryY=-0.011;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-46" target="dMU29pMQTbouE0_PsFfP-55">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;font-style: italic;&quot;&gt;Якщо бракує часу, то користуйтесь цим методом для найбільш складних для вас задач.&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;&lt;span style=&quot;font-size:16px;color:#000000;font-style: italic;&quot;&gt;Найкращим методом навчання є саме згадування, умисне повторення, а не перечитування матеріалу&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="FQNVE3TknsPs" id="XsYeRrQ1QTcEc0-khL4N-43">
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;font-style: italic;&quot;&gt;Якщо бракує часу, то користуйтесь цим методом для найбільш складних для вас задач.&lt;/span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16px;color:#000000;&quot;&gt;&lt;span style=&quot;font-size:16px;color:#000000;font-style: italic;&quot;&gt;Найкращим методом навчання є саме згадування, умисне повторення, а не перечитування матеріалу&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="FQNVE3TknsPs" id="dMU29pMQTbouE0_PsFfP-58">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#c3f7c8;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="2370" y="-2160" width="435" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="SQNVG3jU62Js" id="XsYeRrQ1QTcEc0-khL4N-44">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.527;exitPerimeter=0;entryX=-0.003;entryY=0.503;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-37" target="XsYeRrQ1QTcEc0-khL4N-43">
+        <UserObject label="" lucidchartObjectId="SQNVG3jU62Js" id="dMU29pMQTbouE0_PsFfP-59">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.527;exitPerimeter=0;entryX=-0.003;entryY=0.503;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-52" target="dMU29pMQTbouE0_PsFfP-58">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Глухі кути: коли ваші знання не тримаються купи" lucidchartObjectId="PRNVF98wZD6U" id="XsYeRrQ1QTcEc0-khL4N-45">
+        <UserObject label="Глухі кути: коли ваші знання не тримаються купи" lucidchartObjectId="PRNVF98wZD6U" id="dMU29pMQTbouE0_PsFfP-60">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
             <mxGeometry x="525" y="-1860" width="210" height="105" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="bSNVBwd1wVKf" id="XsYeRrQ1QTcEc0-khL4N-46">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitY=0.5;exitPerimeter=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-45" target="XsYeRrQ1QTcEc0-khL4N-45">
+        <UserObject label="" lucidchartObjectId="bSNVBwd1wVKf" id="dMU29pMQTbouE0_PsFfP-61">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitY=0.5;exitPerimeter=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-60" target="dMU29pMQTbouE0_PsFfP-60">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="505" y="-1787" generated="1" />
@@ -298,32 +342,35 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="fSNVExgB_koC" id="XsYeRrQ1QTcEc0-khL4N-47">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.917;exitY=0.789;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-21" target="XsYeRrQ1QTcEc0-khL4N-45">
+        <UserObject label="" lucidchartObjectId="fSNVExgB_koC" id="dMU29pMQTbouE0_PsFfP-62">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.917;exitY=0.789;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-27" target="dMU29pMQTbouE0_PsFfP-60">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Час від часу ви будете стикатись з труднощами у навчанні, ніби ви знов нічого не розумієте" lucidchartObjectId="nSNVuw4jvnKz" id="XsYeRrQ1QTcEc0-khL4N-48">
+        <mxCell id="dMU29pMQTbouE0_PsFfP-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-64" target="dMU29pMQTbouE0_PsFfP-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Час від часу ви будете стикатись з труднощами у навчанні, ніби ви знов нічого не розумієте" lucidchartObjectId="nSNVuw4jvnKz" id="dMU29pMQTbouE0_PsFfP-64">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;fontColor=default;align=left;spacing=9;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="825" y="-1830" width="301" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="ySNVWo~wN9_A" id="XsYeRrQ1QTcEc0-khL4N-49">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.002;exitY=0.5;exitPerimeter=0;entryX=-0.005;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-45" target="XsYeRrQ1QTcEc0-khL4N-48">
+        <UserObject label="" lucidchartObjectId="ySNVWo~wN9_A" id="dMU29pMQTbouE0_PsFfP-65">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.002;exitY=0.5;exitPerimeter=0;entryX=-0.005;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-60" target="dMU29pMQTbouE0_PsFfP-64">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="Дайте час вашому мозку упорядкувати отримані знання. Невдовзі ви помітите що вам все дається вже легше" lucidchartObjectId="JSNVKzP_pdZU" id="XsYeRrQ1QTcEc0-khL4N-50">
+        <UserObject label="Дайте час вашому мозку упорядкувати отримані знання. Невдовзі ви помітите що вам все дається вже легше" lucidchartObjectId="JSNVKzP_pdZU" id="dMU29pMQTbouE0_PsFfP-66">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;fontColor=default;align=left;spacing=9;verticalAlign=middle;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=3;" vertex="1" parent="1">
             <mxGeometry x="1200" y="-1830" width="375" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="IgWVFGE3ukCo" id="XsYeRrQ1QTcEc0-khL4N-51">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.008;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-1" target="XsYeRrQ1QTcEc0-khL4N-26">
+        <UserObject label="" lucidchartObjectId="IgWVFGE3ukCo" id="dMU29pMQTbouE0_PsFfP-67">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.008;entryPerimeter=0;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-3" target="dMU29pMQTbouE0_PsFfP-40">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="802" y="149" />
@@ -334,71 +381,121 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="BhWVQLxs7PWK" id="XsYeRrQ1QTcEc0-khL4N-52">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;curved=1;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=1.008;entryPerimeter=0;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-1" target="XsYeRrQ1QTcEc0-khL4N-2">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="1008" y="374" />
-                <mxPoint x="1279" y="-320" />
-                <mxPoint x="1833" y="-729" />
-                <mxPoint x="2614" y="-844" />
-              </Array>
-            </mxGeometry>
+        <UserObject label="&lt;p style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Прийоми мотивування себе до необхідних дій:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- одягнути спортивний костюм;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- залишати документи перед дверима;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- знайти тихе місце для роботи без відволікань;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- виділити собі окреме місце для роботи вдома;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- медитація для звільнення від заважаючих роботі думок;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- головне почати працювати, у процесі стане набагато легше.&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" lucidchartObjectId="jKNV0.O8IeED" id="dMU29pMQTbouE0_PsFfP-68">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;spacingTop=0;whiteSpace=wrap;align=center;horizontal=1;" vertex="1" parent="1">
+            <mxGeometry x="-830" y="-2110" width="540" height="284.44" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="PjWV5Y8nfyBi" id="XsYeRrQ1QTcEc0-khL4N-54">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=4.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.852;exitY=0.133;exitPerimeter=0;entryX=0.313;entryY=1.003;entryPerimeter=0;curved=1;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-2" target="XsYeRrQ1QTcEc0-khL4N-4">
-            <mxGeometry width="100" height="100" relative="1" as="geometry" />
+        <UserObject label="&lt;strong style=&quot;background-color: initial;&quot;&gt;Як правильно прокрастинувати:&lt;/strong&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- у цей час не підходьте до комп’ютера: він дуже затягує;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;- перед цим визначте найпростіше із завдань, які вам потрібно буде виконати;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;- запишіть задачу, яку потрібно виконати, на аркуші паперу й носіть його із собою.&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;" lucidchartObjectId="jKNV0.O8IeED" id="dMU29pMQTbouE0_PsFfP-69">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;fontFamily=Helvetica;verticalAlign=middle;" vertex="1" parent="1">
+            <mxGeometry x="-827" y="-1770" width="697" height="170" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="QjWVJFlKnUd9" id="XsYeRrQ1QTcEc0-khL4N-55">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=4.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.008;exitY=0.5;exitPerimeter=0;entryX=-0.001;entryY=0.5;entryPerimeter=0;curved=1;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-2" target="XsYeRrQ1QTcEc0-khL4N-5">
-            <mxGeometry width="100" height="100" relative="1" as="geometry" />
+        <mxCell id="dMU29pMQTbouE0_PsFfP-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF33;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-680" width="350" height="350" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;strong style=&quot;background-color: initial;&quot;&gt;Експерименти над самим собою — ключ до самовдосконалення:&lt;/strong&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- записуйте причини, через які ви прокрастинували та не виконали роботу/завдання;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;- &lt;/span&gt;помічайте&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;, де саме вам легше та приємніше працювати, у якій частині доби.&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" lucidchartObjectId="jKNV0.O8IeED" id="dMU29pMQTbouE0_PsFfP-71">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-827" y="-1526" width="657" height="126" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="0jWV7U8Kdfll" id="XsYeRrQ1QTcEc0-khL4N-56">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=4.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.854;exitY=0.865;exitPerimeter=0;entryX=-0.001;entryY=0.5;entryPerimeter=0;curved=1;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-2" target="XsYeRrQ1QTcEc0-khL4N-6">
-            <mxGeometry width="100" height="100" relative="1" as="geometry" />
+        <UserObject label="&lt;strong style=&quot;background-color: initial;&quot;&gt;Остаточне примирення із зомбі: ваше особисте планування й ведення календаря&lt;/strong&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;1. Раз на тиждень складайте короткий перелік найважливіших завдань.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;2. Щодня пишіть список завдань, над якими сьогодні можете багато попрацювати&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;або які можете завершити.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;3. Зі свого &lt;/span&gt;календаря &lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;випишіть перелік справ на тиждень із двадцяти пунктів чи менше.&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" lucidchartObjectId="jKNV0.O8IeED" id="dMU29pMQTbouE0_PsFfP-72">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-827" y="-1339" width="757" height="199" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="5jWV9O-U0Lst" id="XsYeRrQ1QTcEc0-khL4N-57">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=4.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.008;exitPerimeter=0;entryX=0.5;entryY=-0.003;entryPerimeter=0;curved=1;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-2" target="XsYeRrQ1QTcEc0-khL4N-7">
-            <mxGeometry width="100" height="100" relative="1" as="geometry" />
+        <mxCell id="dMU29pMQTbouE0_PsFfP-73" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=11;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="-450" as="sourcePoint" />
+            <mxPoint x="720" y="-460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="-340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;p&gt;&lt;strong&gt;З’їдай всіх своїх жаб у ранці&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Це означає робити всі найважливіші й найнеприємніші справи одразу після пробудження. Це надзвичайно ефективний метод&lt;/span&gt;&lt;/p&gt;" lucidchartObjectId="jKNV0.O8IeED" id="dMU29pMQTbouE0_PsFfP-74">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-1850" y="-2106" width="587" height="106" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId=".jWVTQtyGJ0S" id="XsYeRrQ1QTcEc0-khL4N-60">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=4.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.116;exitY=0.167;exitPerimeter=0;entryX=1.001;entryY=0.5;entryPerimeter=0;curved=1;" edge="1" parent="1" source="XsYeRrQ1QTcEc0-khL4N-2" target="XsYeRrQ1QTcEc0-khL4N-10">
-            <mxGeometry width="100" height="100" relative="1" as="geometry" />
+        <mxCell id="dMU29pMQTbouE0_PsFfP-75" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-571" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-76" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-580" width="50" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;strong style=&quot;background-color: initial;&quot;&gt;Найкращі застосунки й програми для занять та роботи&lt;/strong&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Таймери:&lt;/span&gt;&lt;br&gt;&lt;a href=&quot;http://pomodorotechnique.com/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;«Метод помідора»&lt;/a&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Планування завдань і картки для вивчення:&lt;/span&gt;&lt;br&gt;&lt;a href=&quot;http://3030.binaryhammer.com/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;30/30&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;http://www.studyblue.com/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;StudyBlue&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;http://evernote.com/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;Evernote&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;http://ankisrs.net/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;Anki&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;http://quizlet.com/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;Quizlet.com&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;http://mail.google.com/mail/help/tasks/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;Google Tasks and Calendar&lt;/a&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Обмеження часу на сайтах, що вас відволікають:&lt;/span&gt;&lt;br&gt;&lt;a href=&quot;http://macfreedom.com/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;Freedom&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;StayFocusd&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;https://addons.mozilla.org/en-us/refox/addon/leechblock/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;LeechBlock&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;https://addons.mozilla.org/en-us/refox/addon/meetimer/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;MeeTimer&lt;/a&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Мотивація:&lt;br&gt;&lt;/span&gt;&lt;a href=&quot;http://www.43things.com/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;43 Things&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;http://www.stickk.com/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;StickK&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;a href=&quot;https://coffitivity.com/&quot; target=&quot;_blank&quot; style=&quot;background-color: initial;&quot;&gt;Coffitivity&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" lucidchartObjectId="jKNV0.O8IeED" id="dMU29pMQTbouE0_PsFfP-77">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-2020" y="-1272" width="757" height="342" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="8jWVu5Z5cYyT" id="XsYeRrQ1QTcEc0-khL4N-66">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=4.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.156;exitY=0.874;exitPerimeter=0;entryX=0.5;entryY=-0.004;entryPerimeter=0;curved=1;" edge="1" parent="1">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points">
-                <mxPoint x="2568" y="-1220" />
-                <mxPoint x="2338" y="-1220" />
-              </Array>
-              <mxPoint x="2568.08" y="-1269.8919999999998" as="sourcePoint" />
-              <mxPoint x="2338.000000000002" y="-1095.0019999999995" as="targetPoint" />
-            </mxGeometry>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=default;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-79" target="dMU29pMQTbouE0_PsFfP-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Глухі кути: коли ваші знання не тримаються купи" lucidchartObjectId="PRNVF98wZD6U" id="dMU29pMQTbouE0_PsFfP-79">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=16;fontColor=default;fontStyle=1;spacing=3.8;strokeColor=#635dff;strokeOpacity=100;fillOpacity=100;fillColor=#dedeff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="520" y="-1715" width="210" height="105" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="-jWV2FOJoKay" id="XsYeRrQ1QTcEc0-khL4N-67">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=4.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.008;exitY=0.5;exitPerimeter=0;entryX=1.001;entryY=0.5;entryPerimeter=0;curved=1;" edge="1" parent="1">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <mxPoint x="2538.5600000000013" y="-1336.0900000000001" as="sourcePoint" />
-              <mxPoint x="2382.2920000000013" y="-1269.5900000000001" as="targetPoint" />
-            </mxGeometry>
+        <UserObject label="&lt;p&gt;Це допомагає знанням краще утримуватись у пам&#39;яті. Такий метод ще називають &quot;ефектом тестування&quot;.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;em style=&quot;&quot;&gt;Тестуєте себе -&amp;gt; Пригадуєте матеріал -&amp;gt; Закріплюєте його у пам&#39;яті&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;" lucidchartObjectId="nSNVuw4jvnKz" id="dMU29pMQTbouE0_PsFfP-80">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;fontColor=default;align=left;spacing=9;strokeColor=#fc9432;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdda6;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="825" y="-1700" width="746" height="77.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="JjWVTwc0PLVJ" id="XsYeRrQ1QTcEc0-khL4N-68">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#635dff;strokeOpacity=100;strokeWidth=4.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.008;exitPerimeter=0;entryX=0.5;entryY=1.004;entryPerimeter=0;curved=1;" edge="1" parent="1">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <mxPoint x="2634" y="-1426.4160000000002" as="sourcePoint" />
-              <mxPoint x="2484.500000000002" y="-1619.58" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-81" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#9391FF;strokeWidth=4;endArrow=oval;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="106.5" as="sourcePoint" />
+            <mxPoint x="2516" y="-1263" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="107" />
+              <mxPoint x="900" y="-1020" />
+              <mxPoint x="2490" y="-1020" />
+              <mxPoint x="2490" y="-1230" />
+              <mxPoint x="2516" y="-1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-82" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" connectable="0" vertex="1" parent="dMU29pMQTbouE0_PsFfP-81">
+          <mxGeometry x="0.5489" y="190" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-83" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=#9391FF;strokeWidth=4;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dMU29pMQTbouE0_PsFfP-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2452.416711459551" y="-1288.8657157661273" as="sourcePoint" />
+            <mxPoint x="2430" y="-1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=4;fillColor=#e1d5e7;strokeColor=#9391FF;fontSize=16;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-6" target="dMU29pMQTbouE0_PsFfP-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2452.416711459552" y="-1288.8657157661269" as="sourcePoint" />
+            <mxPoint x="2322" y="-1411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=4;fillColor=#e1d5e7;strokeColor=#9391FF;fontSize=16;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="dMU29pMQTbouE0_PsFfP-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2425.9999999999927" y="-1351.5" as="sourcePoint" />
+            <mxPoint x="2355" y="-1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;fillColor=#e1d5e7;strokeColor=#9391FF;fontSize=16;shadow=0;elbow=vertical;curved=1;entryX=0.553;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dMU29pMQTbouE0_PsFfP-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2452.416711459551" y="-1414.1342842338727" as="sourcePoint" />
+            <mxPoint x="2451.533333333333" y="-1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=4;fillColor=#e1d5e7;strokeColor=#9391FF;fontSize=16;" edge="1" parent="1" source="dMU29pMQTbouE0_PsFfP-6" target="dMU29pMQTbouE0_PsFfP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2501.93" y="-1462" as="sourcePoint" />
+            <mxPoint x="2605.93" y="-1618.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dMU29pMQTbouE0_PsFfP-88" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#9391FF;strokeWidth=4;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dMU29pMQTbouE0_PsFfP-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2579.583288540449" y="-1414.1342842338745" as="sourcePoint" />
+            <mxPoint x="2580" y="-1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
